@@ -1,6 +1,6 @@
 ### Hello! I am Antonio Costa! 👋
 
-- 🔭 I’m currently working as a fullstack developer
+- 🔭 I’m currently working as a Information Technology Analyst and fullstack developer
 - 🌱 I’m currently learning python, selenium, 
 - 💬 Ask me about math problems and python!
 
