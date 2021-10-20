@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Information Technology Analyst and fullstack developer
 - 🌱 I’m currently learning python, selenium, NodeJS, react JS, TypeScript
-- 💬 Ask me about python, webscrapping, and math problems.
+- 💬 Ask me about python, web scraping, and math problems.
 
 <div align="center">
   <a href="https://github.com/antonio-costa00">
