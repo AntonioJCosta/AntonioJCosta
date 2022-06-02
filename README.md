@@ -1,7 +1,7 @@
 ### Hello! I am Antonio Costa! 👋
 
 - 🔭 I’m currently working as Systems Development Analyst
-- ✏️ I offer classes in mathematics, physics, programming logic and web devbelopment.
+- ✏️ I offer classes in mathematics, physics, programming logic and python
 - 💬 Professional contact: antonio.costa.dev@gmail.com
 
 <div align="center">
