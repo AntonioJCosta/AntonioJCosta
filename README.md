@@ -1,6 +1,6 @@
 ### Hello! I am Antonio Costa! 👋
 
-- 🔭 I’m currently working as Systems Development Analyst
+- 🔭 I’m currently working as Infra/Cloud Analyst
 - ✏️ I offer classes in mathematics, physics, programming logic, web development and process automation.
 - 💬 Professional contact: antonio.costa.dev@gmail.com
 
