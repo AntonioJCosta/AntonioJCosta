@@ -1,7 +1,7 @@
 ### Hello! I am Antonio Costa! 👋
 
 - 🔭 I’m currently working as Infra/Cloud Analyst at Certsys tecnologia da informação company.
-- ✏️ I am the creator of an automation process in Python, available for free here on Github
+- ✏️ I am the creator of an automation process course in Python, available for free here on Github
 - 💬 Professional contact: antonio.costa.dev@gmail.com
 
 <div align="center">
