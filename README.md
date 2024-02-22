@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/antonio-costa00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniojcosta&hide=prs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <a href="https://app.daily.dev/antonio_costa"><img src="https://api.daily.dev/devcards/6b1309e367ca4f06bf838db0a1636e25.png?r=na5" width="400" alt="Antonio Costa's Dev Card"/></a>
+    <a href="https://app.daily.dev/antonio_costa"><img src="https://api.daily.dev/devcards/v2/upwBOttmoySRdy7VJBy2p.png?type=default&r=xmn" width="356" alt="Antonio Costa's Dev Card"/></a>
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
