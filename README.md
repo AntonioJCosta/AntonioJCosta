@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Senior Software Engineer at Nuclea.
 - ✏️ I am the creator of an automation process course, in Python, available for free here on Github [Python na prática: Desenvolvendo automação de processos](https://github.com/Antonio-Costa00/Curso-Python-Na-Pratica-Desenvolvendo-Automacoes-de-Processos))
-- 💬 Professional contact: antonio.costa.dev@gmail.com
+- 💬 Professional contact: antoniojuncosta@gmail.com
 
 <div align="center">
   <a href="https://github.com/antonio-costa00">
@@ -23,8 +23,6 @@
   
   <div> 
     
-  <a href = "mailto:antonio.costa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:antoniojuncosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-costa-099ab0182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Antonio_Costa200" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- 
 </div>
