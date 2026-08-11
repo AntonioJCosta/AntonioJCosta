@@ -1,24 +1,52 @@
-# Hello! I am Antonio Costa! 👋
+# Hello! I'm Antonio Costa 👋
 
-I'm a Senior Software Engineer passionate about developing automation solutions and robust software.
+Senior Software Engineer focused on backend and full-stack development,
+cloud automation, platform engineering, and applied AI.
+
+I enjoy building reliable software, automating repetitive workflows,
+and turning complex operational problems into maintainable solutions.
 
 <div align="center">
-  <a href="https://github.com/antoniojcosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniojcosta&hide=prs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/AntonioJCosta">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AntonioJCosta&hide=prs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Antonio Costa's GitHub statistics"/>
   </a>
   <a href="https://app.daily.dev/antonio_costa">
-    <img src="https://api.daily.dev/devcards/v2/upwBOttmoySRdy7VJBy2p.png?type=default&r=xmn" width="356" alt="Antonio Costa's Dev Card"/>
+    <img height="170em" src="https://api.daily.dev/devcards/v2/upwBOttmoySRdy7VJBy2p.png?type=default&r=xmn" alt="Antonio Costa's daily.dev card"/>
   </a>
 </div>
 
-## 🚀 Projects & Creations
-- Creator of the automation process course _[Python na prática: Desenvolvendo automação de processos](https://github.com/AntonioJCosta/Curso-Python-Na-Pratica-Desenvolvendo-Automacoes-de-Processos)_
-- Creator of _[nicksh](https://github.com/AntonioJCosta/nicksh)_, Smart Shell Alias Manager, created in Go.
-- Creator of _[py-secure-shell-automator](https://github.com/AntonioJCosta/py_secure_shell_automator)_, a comprehensive SSH management library created in Python.
+## Technical Focus
 
-## 🏢 Currently
-- Working as a Senior Software Engineer at _[Nuclea](https://www.nuclea.com.br/)_
+- **Languages:** Go, Python, TypeScript, JavaScript, Shell Script
+- **Backend:** FastAPI, Django, Flask, Node.js, NestJS, REST APIs
+- **Frontend:** React, Next.js
+- **Cloud & Infrastructure:** AWS, GCP, Docker, Kubernetes, Terraform, Ansible, CI/CD
+- **Observability:** Prometheus, Grafana, Zabbix, ELK
+- **Data & Messaging:** PostgreSQL, MySQL, SQL, Kafka
 
-## 📫 Get in Touch
-- 💬 _[Professional contact](mailto:antoniojuncosta@gmail.com)_
-- 💼 _[LinkedIn](https://www.linkedin.com/in/dev-antonio-costa/)_
+## Selected Projects
+
+- [nicksh](https://github.com/AntonioJCosta/nicksh)  
+  A Go-based CLI that analyzes shell history and helps manage aliases.
+
+- [py_secure_shell_automator](https://github.com/AntonioJCosta/py_secure_shell_automator)  
+  A Python library for automating SSH operations across multiple hosts.
+
+- [Auto Security Incident Creation](https://github.com/AntonioJCosta/Auto-Security-Incident-Creation-From-New-Suspect-Emails)  
+  An automation that creates security incidents from suspicious emails.
+
+- [Python na Prática](https://github.com/AntonioJCosta/Curso-Python-Na-Pratica-Desenvolvendo-Automacoes-de-Processos)  
+  Course materials focused on Python and process automation.
+
+## Continuous Learning
+
+📚 2,500+ technical articles read on [daily.dev](https://app.daily.dev/antonio_costa)
+
+## Currently
+
+Senior Software Engineer at [Núclea](https://www.nuclea.com.br/).
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dev-antonio-costa/)
+- [Email](mailto:antonio.costa.dev@gmail.com)
